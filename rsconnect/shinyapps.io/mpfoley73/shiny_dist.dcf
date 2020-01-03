@@ -1,0 +1,12 @@
+name: shiny_dist
+title: shiny_dist
+username:
+account: mpfoley73
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1621082
+bundleId: 2703425
+url: https://mpfoley73.shinyapps.io/shiny_dist/
+when: 1578015063.28634
+asMultiple: FALSE
+asStatic: FALSE
